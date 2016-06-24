@@ -1,2 +1,2 @@
 # practica
-repos
+repositorio de practtica
